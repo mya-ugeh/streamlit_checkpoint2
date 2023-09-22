@@ -1,0 +1,7 @@
+,Variables,Definitions
+0,cellphone_access,"If interviewee has access to a cellphone: Yes, No"
+1,education_level,"Highest level of education: No formal education, Primary education, Secondary education, Vocational/Specialised training, Tertiary education, Other/Dont know/RTA"
+2,job_type,"Type of job interviewee has: Farming and Fishing, Self employed, Formally employed Government, Formally employed Private, Informally employed, Remittance Dependent, Government Dependent, Other Income, No Income, Dont Know/Refuse to answer"
+3,country,Country interviewee is in.
+4,gender_of_respondent,"Gender of interviewee: Male, Female"
+5,year,Year survey was done in.
